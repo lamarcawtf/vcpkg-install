@@ -5,5 +5,6 @@ vcpkg install imgui[dx11-binding,win32-binding,freetype]:x64-windows-static
 vcpkg install curl:x64-windows-static
 vcpkg install cpr:x64-windows-static
 vcpkg install nlohmann-json:x64-windows-static
+vcpkg install minhook :x64-windows-static
 
 @echo loop
