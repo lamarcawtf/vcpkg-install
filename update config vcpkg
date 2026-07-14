@@ -1,0 +1,1 @@
+vcpkg install xorstr imgui[dx11-binding,win32-binding,freetype] curl cpr nlohmann-json minhook cpp-httplib --triplet=x64-windows-static
